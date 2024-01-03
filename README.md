@@ -21,3 +21,13 @@ This book is more than a guide; it's an invitation to join a growing movement de
 [Carpa Security Academy ](https://carpa-sec.com)
 
 [YouTube](https://www.youtube.com/@RichardArdelean)
+
+
+
+```html
+<div style="border: 2px solid red; padding: 10px; background-color: yellow;">
+    <strong>⚠️ Warning:</strong>
+    <p>This guide is provided for educational purposes only. Engaging in any illegal activities or unethical behavior is strictly prohibited. As a user of this information, you are responsible for ensuring that your actions comply with your local laws and regulations. Let's commit to promoting a safe and ethical cybersecurity community.</p>
+</div>
+
+```
