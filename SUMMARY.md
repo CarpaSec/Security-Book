@@ -5,6 +5,7 @@
   * [Reconnaissance & Information Gathering](offensive-security/reconnaissance-and-information-gathering/README.md)
     * [Passive Reconnaissance](offensive-security/reconnaissance-and-information-gathering/passive-reconnaissance/README.md)
       * [Reconnaissance Frameworks](offensive-security/reconnaissance-and-information-gathering/passive-reconnaissance/reconnaissance-frameworks.md)
+      * [Metadata Analysis](offensive-security/reconnaissance-and-information-gathering/passive-reconnaissance/metadata-analysis.md)
     * [Active Recon](offensive-security/reconnaissance-and-information-gathering/active-recon.md)
   * [Exploitation & Target Compromise](offensive-security/exploitation-and-target-compromise.md)
   * [Privilege Escalation](offensive-security/privilege-escalation.md)
