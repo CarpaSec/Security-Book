@@ -8,6 +8,7 @@
       * [Metadata Analysis](offensive-security/reconnaissance-and-information-gathering/passive-reconnaissance/metadata-analysis.md)
       * [Domain & IP Enumeration](offensive-security/reconnaissance-and-information-gathering/passive-reconnaissance/domain-and-ip-enumeration.md)
       * [Social Media](offensive-security/reconnaissance-and-information-gathering/passive-reconnaissance/social-media.md)
+      * [Email Addresses](offensive-security/reconnaissance-and-information-gathering/passive-reconnaissance/email-addresses.md)
     * [Active Recon](offensive-security/reconnaissance-and-information-gathering/active-recon.md)
   * [Exploitation & Target Compromise](offensive-security/exploitation-and-target-compromise.md)
   * [Privilege Escalation](offensive-security/privilege-escalation.md)
