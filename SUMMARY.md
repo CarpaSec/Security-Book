@@ -17,6 +17,8 @@
         * [OS Fingerprinting & Service Identification](offensive-security/reconnaissance-and-information-gathering/active-recon/system-and-network/os-fingerprinting-and-service-identification.md)
         * [Network Mapping and Visualization](offensive-security/reconnaissance-and-information-gathering/active-recon/system-and-network/network-mapping-and-visualization.md)
         * [Service Enumeration](offensive-security/reconnaissance-and-information-gathering/active-recon/system-and-network/service-enumeration.md)
+      * [Web Application](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/README.md)
+        * [Public Resource](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/public-resource.md)
   * [Exploitation & Target Compromise](offensive-security/exploitation-and-target-compromise.md)
   * [Privilege Escalation](offensive-security/privilege-escalation.md)
   * [Post Exploitation](offensive-security/post-exploitation/README.md)
