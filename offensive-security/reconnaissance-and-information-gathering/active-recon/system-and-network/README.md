@@ -16,6 +16,8 @@ Network Scanning and Enumeration involve actively probing a network or system to
 
 **Network Mapping:** Visualizing the network layout, understanding the topology and interconnections between hosts.
 
+
+
 ## Network Scanning and Enumeration
 
 [**Nmap**](https://nmap.org/) **(CLI-based):** Scans for open ports, identifies services and operating systems.
@@ -78,3 +80,5 @@ masscan -pU:53,111,137 --banners 192.168.1.0/24
 ```
 
 [**Angry IP Scanner**](https://angryip.org/)**:** Fast IP and port scanner with a GUI.
+
+{% embed url="https://www.youtube.com/watch?pp=ygUbc3lzdGVtIGFuZCBuZXR3b3JrIHNjYW5uaW5n&v=4xaWoZE8eik" %}
