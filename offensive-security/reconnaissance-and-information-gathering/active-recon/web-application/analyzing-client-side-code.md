@@ -40,6 +40,8 @@ uglifyjs file.js --source-map
 # Generates a source map for file.js.
 ```
 
+{% embed url="https://www.youtube.com/watch?pp=ygUZSmF2YVNjcmlwdCBBbmFseXNpcyBUb29scw==&v=ssRo5nVOvrQ" %}
+
 ## HTML and DOM Inspection Tools
 
 **Chrome Developer Tools (DevTools):** Provides deep access and insight into the web pages' front-end.
@@ -55,6 +57,8 @@ uglifyjs file.js --source-map
 **HTML Validator (Browser Extension):** Validates HTML of web pages and highlights errors.
 
 **WAVE (Web Accessibility Evaluation Tool):** Evaluates web page accessibility by identifying errors in HTML and DOM structure.
+
+{% embed url="https://www.youtube.com/watch?pp=ygUdSFRNTCBhbmQgRE9NIEluc3BlY3Rpb24gVG9vbHM=&v=Gk6BljF60RI" %}
 
 ## CSS Analysis Tools
 
@@ -81,6 +85,8 @@ stylelint "src/**/*.css" --ignore-path .gitignore
 
 [**CSS Stats**](https://cssstats.com/)**:** Provides analytics and visualization of CSS file sizes, rules, and selectors.
 
+{% embed url="https://www.youtube.com/watch?pp=ygUSQ1NTIEFuYWx5c2lzIFRvb2xz&v=oRKlKhFt2Rg" %}
+
 ## Code Review and Debugging Tools
 
 [**SonarQube**](https://www.sonarqube.org/)**:** Analyzes source code for bugs, vulnerabilities, and code smells in various programming languages.
@@ -92,6 +98,8 @@ stylelint "src/**/*.css" --ignore-path .gitignore
 **Debugger for Chrome (Visual Studio Code Extension):** Allows debugging JavaScript code in the Chrome browser from within Visual Studio Code.
 
 [**Tampermonkey**](https://www.tampermonkey.net/) **(Browser Extension):** Userscript manager for running and managing JavaScript scripts on web pages.
+
+{% embed url="https://www.youtube.com/watch?pp=ygUfQ29kZSBSZXZpZXcgYW5kIERlYnVnZ2luZyBUb29scw==&v=Y9sp8gONv9M" %}
 
 ## Browser Console and Network Analysis
 

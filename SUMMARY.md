@@ -21,6 +21,7 @@
         * [Public Resource](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/public-resource.md)
         * [Technology Mapping](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/technology-mapping.md)
         * [Analyzing Client Side Code](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/analyzing-client-side-code.md)
+        * [Testing User Inputs and Controls:](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/testing-user-inputs-and-controls.md)
   * [Exploitation & Target Compromise](offensive-security/exploitation-and-target-compromise.md)
   * [Privilege Escalation](offensive-security/privilege-escalation.md)
   * [Post Exploitation](offensive-security/post-exploitation/README.md)
