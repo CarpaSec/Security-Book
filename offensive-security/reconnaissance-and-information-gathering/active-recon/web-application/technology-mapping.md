@@ -4,6 +4,8 @@ Understanding a web application during reconnaissance involves gathering as much
 
 [**Wappalyzer**](https://www.wappalyzer.com/)**:** Identifies technologies on websites, such as CMS, web frameworks, server software, and analytics tools.
 
+{% embed url="https://www.youtube.com/watch?pp=ygUKd2FwcGFseXplcg==&v=q8xx1ZRgKRo" %}
+
 [**BuiltWith**](https://builtwith.com/)**:** Provides details about the technology stack of websites, including server information, CMS, and scripting languages.
 
 **WhatWeb:** Identifies website technologies, including content management systems, web server platforms, and JavaScript libraries.
