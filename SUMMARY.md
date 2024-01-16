@@ -25,6 +25,7 @@
         * [Analyzing Server Responses and Error Messages:](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/analyzing-server-responses-and-error-messages.md)
         * [API and Endpoint Analysis:](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/api-and-endpoint-analysis.md)
         * [Session Management Analysis](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/session-management-analysis.md)
+        * [Automated Vulnerability Scanning](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/automated-vulnerability-scanning.md)
   * [Exploitation & Target Compromise](offensive-security/exploitation-and-target-compromise.md)
   * [Privilege Escalation](offensive-security/privilege-escalation.md)
   * [Post Exploitation](offensive-security/post-exploitation/README.md)
