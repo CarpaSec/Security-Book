@@ -27,6 +27,7 @@
         * [Session Management Analysis](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/session-management-analysis.md)
         * [Automated Vulnerability Scanning](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/automated-vulnerability-scanning.md)
         * [Web Enumeration](offensive-security/reconnaissance-and-information-gathering/active-recon/web-application/web-enumeration.md)
+      * [Page 1](offensive-security/reconnaissance-and-information-gathering/active-recon/page-1.md)
   * [Exploitation & Target Compromise](offensive-security/exploitation-and-target-compromise.md)
   * [Privilege Escalation](offensive-security/privilege-escalation.md)
   * [Post Exploitation](offensive-security/post-exploitation/README.md)
